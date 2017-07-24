@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SynchronizeViewSettings">
+		<item value="1495778636645" key="lastactiveparticipant_sec_id"/>
+		<item value="com.microsoft.tfs.client.eclipse.ui.sync.SynchronizeParticipant" key="lastactiveparticipant_id"/>
+		<item value="false" key="linkWithEditor"/>
+		<section name="com.microsoft.tfs.client.eclipse.ui.sync.SynchronizeParticipant.1494926327253">
+		</section>
+		<section name="com.microsoft.tfs.client.eclipse.ui.sync.SynchronizeParticipant.1494928888767">
+		</section>
+		<section name="com.microsoft.tfs.client.eclipse.ui.sync.SynchronizeParticipant.1494934546040">
+		</section>
+		<section name="com.microsoft.tfs.client.eclipse.ui.sync.SynchronizeParticipant.1495778636645">
+			<item value="org.eclipse.team.ui.modelprovider_compressedfolders" key="org.eclipse.team.ui.P_LAST_MODELPROVIDER"/>
+		</section>
+		<section name="com.microsoft.tfs.client.eclipse.ui.sync.SynchronizeParticipant.1494915839870">
+		</section>
+		<section name="com.microsoft.tfs.client.eclipse.ui.sync.SynchronizeParticipant.1494927104734">
+		</section>
+		<section name="com.microsoft.tfs.client.eclipse.ui.sync.SynchronizeParticipant.1494928976339">
+		</section>
+		<section name="com.microsoft.tfs.client.eclipse.ui.sync.SynchronizeParticipant.1494929003309">
+		</section>
+		<section name="com.microsoft.tfs.client.eclipse.ui.sync.SynchronizeParticipant.1494935444142">
+			<item value="org.eclipse.team.ui.modelprovider_compressedfolders" key="org.eclipse.team.ui.P_LAST_MODELPROVIDER"/>
+			<item value="1" key="org.eclipse.team.ui.P_SYNCVIEWPAGE_MODE"/>
+		</section>
+		<section name="com.microsoft.tfs.client.eclipse.ui.sync.SynchronizeParticipant.1494934139961">
+		</section>
+		<section name="com.microsoft.tfs.client.eclipse.ui.sync.SynchronizeParticipant.1494927150253">
+		</section>
+		<section name="com.microsoft.tfs.client.eclipse.ui.sync.SynchronizeParticipant.1494929122432">
+		</section>
+	</section>
+</section>

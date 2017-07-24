@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <parameter name="Script_Name" value="SampleTest"/>
+  <parameter name="Device_ID" value="LGH8605b04963d"/>
+  <parameter name="Device_Platform" value="Android"/>
+  <parameter name="DeviceName" value="1st_77_Jeanne"/>
+  <test name="SampleTest-1-(failed)">
+    <parameter name="Script_Name" value="SampleTest"/>
+    <parameter name="Device_ID" value="LGH8605b04963d"/>
+    <parameter name="Device_Platform" value="Android"/>
+    <parameter name="DeviceName" value="1st_77_Jeanne"/>
+    <classes>
+      <class name="com.raftt_m.testscripts.SampleTest">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="sampletest"/>
+        </methods>
+      </class> <!-- com.raftt_m.testscripts.SampleTest -->
+    </classes>
+  </test> <!-- SampleTest-1-(failed) -->
+</suite> <!-- Failed suite [Suite] -->

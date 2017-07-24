@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="com.microsoft.tfs.client.common.ui.dialogs.connect.CredentialsDialog">
+		<item value="2" key="VIEWS"/>
+		<item value="259" key="DIALOG_ORIGIN_Y"/>
+		<item value="459" key="DIALOG_ORIGIN_X"/>
+		<item value="522" key="DIALOG_WIDTH"/>
+		<item value="05/16/17 11:53:17" key="SINCE"/>
+		<item value="10488" key="ACCUMULATED_OPEN_TIME"/>
+		<item value="244" key="DIALOG_HEIGHT"/>
+		<item value="2" key="TIME_COUNTS"/>
+	</section>
+	<section name="com.microsoft.tfs.client.common.ui.dialogs.vc.CheckinDialog">
+		<item value="43" key="VIEWS"/>
+		<item value="173" key="DIALOG_ORIGIN_Y"/>
+		<item value="618" key="DIALOG_ORIGIN_X"/>
+		<item value="597" key="DIALOG_WIDTH"/>
+		<item value="05/16/17 12:03:46" key="SINCE"/>
+		<item value="689871" key="ACCUMULATED_OPEN_TIME"/>
+		<item value="362" key="DIALOG_HEIGHT"/>
+		<item value="43" key="TIME_COUNTS"/>
+	</section>
+	<section name="wizard-EclipseConnectErrorWizard">
+	</section>
+	<section name="com.microsoft.tfs.client.common.ui.dialogs.vc.ChangesetDetailsDialog">
+		<item value="1" key="VIEWS"/>
+		<item value="163" key="DIALOG_ORIGIN_Y"/>
+		<item value="422" key="DIALOG_ORIGIN_X"/>
+		<item value="597" key="DIALOG_WIDTH"/>
+		<item value="05/16/17 12:48:39" key="SINCE"/>
+		<item value="3902" key="ACCUMULATED_OPEN_TIME"/>
+		<item value="388" key="DIALOG_HEIGHT"/>
+		<item value="1" key="TIME_COUNTS"/>
+	</section>
+</section>

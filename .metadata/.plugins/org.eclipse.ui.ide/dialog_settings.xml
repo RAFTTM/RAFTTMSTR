@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="CleanDialogSettings">
+		<item value="484" key="DIALOG_WIDTH"/>
+		<item value="false" key="TOGGLE_SELECTED"/>
+		<item value="354" key="DIALOG_HEIGHT"/>
+		<item value="478" key="DIALOG_X_ORIGIN"/>
+		<item value="185" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item value="true" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="true" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="/RAFTT-M_1.0.1 copy/"/>
+			<item value="/RAFTT-M_1.0.1 copy/RAFTT-M"/>
+			<item value="/RAFTT-M_1.0.1/sampletest"/>
+			<item value="/RAFTT-M_1.0.1/RAFTT-M"/>
+			<item value="/UPS_CT_Automation/UPS-CT Automation"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item value="org.eclipse.m2e.core.wizards.Maven2ProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.m2e"/>
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item value="424" key="DIALOG_X_ORIGIN"/>
+		<item value="226" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.ui.dialogs.FilteredResourcesSelectionDialog">
+		<item value="false" key="FilterByLocation"/>
+		<item value="true" key="ShowStatusLine"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;History&gt;&#x0A;&lt;historyRootNode&gt;&#x0A;&lt;infoNode path=&quot;/UPS-CT Automation/src/TestScripts/DeliveryOptions/DCOrestrictedDCObasicusertrackingdetails_66366.java&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/UPS-CT Automation/src/TestScripts/HybridEnrollment/HE_BasicHybridEnrollmentUsingBasicPromoCode_TC_72459.java&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/UPS-CT Automation/test-output/junitreports/TEST-TestScripts.HybridEnrollment.HE_JoinMCEnrollmentLeaveFieldsBlank_TC_NGTest_10.xml&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/UPS-CT Automation/test-output/Suite/HE_JoinMCEnrollmentLeaveFieldsBlank_TC_NGTest_10-1-.html&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/UPS-CT Automation/test-output/junitreports/TEST-TestScripts.ForgotPasswordChange.FPC_LoginUserIDAndPasswordBothInvalid_TC_71836.xml&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/UPS-CT Automation/test-output/junitreports/TEST-TestScripts.Filters.TL_VerifyNewOptionPlannerForNewEnrollmentsTracking_80432.xml&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/UPS-CT Automation/test-output/junitreports/TEST-TestScripts.Filters.VerifyNewOptionPlanner_UpgradeToPremium80429.xml&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/UPS-CT Automation/src/TestScripts/Tracking/D2R_DeliveryChangeListLoggedInRedeliverBCDN_72319.java&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/UPS-CT Automation/src/TestScripts/Tracking/DCR_UPSUserTrack1ZAndDeliverToUAPD2RPkg_TC_75918.java&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/UPS-CT Automation/src/TestScripts/Login/LoginWithAUPSId71756.java&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;/historyRootNode&gt;&#x0A;&lt;/History&gt;" key="History"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;workingSet workingSetName=&quot;&quot;/&gt;" key="WorkingSet"/>
+		<item value="false" key="ShowDerived"/>
+		<section name="DialogBoundsSettings">
+			<item value="600" key="DIALOG_WIDTH"/>
+			<item value="1|.SF NS Text|11.0|0|COCOA|1|.SFNSText-Regular" key="DIALOG_FONT_NAME"/>
+			<item value="500" key="DIALOG_HEIGHT"/>
+			<item value="488" key="DIALOG_X_ORIGIN"/>
+			<item value="297" key="DIALOG_Y_ORIGIN"/>
+		</section>
+	</section>
+</section>

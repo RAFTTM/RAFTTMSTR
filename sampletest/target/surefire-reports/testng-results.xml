@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="51210" started-at="2017-07-06T08:47:30Z" finished-at="2017-07-06T08:48:21Z">
+    <groups>
+    </groups>
+    <test name="SampleTest-1-" duration-ms="51210" started-at="2017-07-06T08:47:30Z" finished-at="2017-07-06T08:48:21Z">
+      <class name="com.raftt_m.testscripts.SampleTest">
+        <test-method status="PASS" signature="beforeTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.raftt_m.testscripts.SampleTest@1efbd816]" name="beforeTest" is-config="true" duration-ms="38071" started-at="2017-07-06T14:17:30Z" finished-at="2017-07-06T14:18:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[SampleTest]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1st_77_Jeanne]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Android]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="sampletest()[pri:0, instance:com.raftt_m.testscripts.SampleTest@1efbd816]" name="sampletest" duration-ms="2292" started-at="2017-07-06T14:18:08Z" finished-at="2017-07-06T14:18:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampletest -->
+        <test-method status="PASS" signature="test(org.testng.ITestResult)[pri:0, instance:com.raftt_m.testscripts.SampleTest@1efbd816]" name="test" is-config="true" duration-ms="414" started-at="2017-07-06T14:18:10Z" finished-at="2017-07-06T14:18:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=sampletest status=SUCCESS method=SampleTest.sampletest()[pri:0, instance:com.raftt_m.testscripts.SampleTest@1efbd816] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.raftt_m.testscripts.SampleTest@1efbd816]" name="afterTest" is-config="true" duration-ms="10414" started-at="2017-07-06T14:18:11Z" finished-at="2017-07-06T14:18:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="closeReport()[pri:0, instance:com.raftt_m.testscripts.SampleTest@1efbd816]" name="closeReport" is-config="true" duration-ms="135" started-at="2017-07-06T14:18:21Z" finished-at="2017-07-06T14:18:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeReport -->
+      </class> <!-- com.raftt_m.testscripts.SampleTest -->
+    </test> <!-- SampleTest-1- -->
+  </suite> <!-- Suite -->
+</testng-results>

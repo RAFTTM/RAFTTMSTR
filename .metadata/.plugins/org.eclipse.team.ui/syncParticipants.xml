@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<syncparticipants>
+<participant displayName="Team Foundation Server" id="com.microsoft.tfs.client.eclipse.ui.sync.SynchronizeParticipant" secondary_id="1495778636645">
+<data root="false">
+<org.eclipse.team.ui.TEAMSUBSRCIBERSETTINGS org.eclipse.team.ui.SCOPE_TYPE="ResourceScope">&#x0A;<org.eclipse.team.ui.TEAMSUBSRCIBER_REFRESHSCHEDULE org.eclipse.team.ui.CTX_REFRESHSCHEDULE_ENABLED="false" org.eclipse.team.ui.CTX_REFRESHSCHEDULE_INTERVAL="3600" org.eclipse.team.ui.CTX_REFRESHSCHEDULE_RUNONCE="false"/>
+<resource_scope_roots resource_scope_root_resource="/UPS-CT Automation/src/TestScripts/Tracking/DCO_premiumUserDeliverToAnotherAddressTransportationCharges9PaymentCards_77813.java"/>
+</org.eclipse.team.ui.TEAMSUBSRCIBERSETTINGS>
+<com.microsoft.tfs.client.eclipse.ui.SYNCHRONIZEPARTICIPANT_SETTINGS com.microsoft.tfs.client.eclipse.ui.SYNCHRONIZEPARTICIPANT_SETTINGS.RESOURCES="/UPS_CT_Automation/UPS-CT Automation/src/TestScripts/Tracking/DCO_premiumUserDeliverToAnotherAddressTransportationCharges9PaymentCards_77813.java"/>
+</data>
+</participant>
+</syncparticipants>
